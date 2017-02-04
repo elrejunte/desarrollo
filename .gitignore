@@ -3,6 +3,7 @@
 .classpath
 .DS_Store
 .pydevproject
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

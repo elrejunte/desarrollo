@@ -12,6 +12,5 @@ def funcion():
 	else:
 		print("Ingreso no valido: %s" % a)
 
-
 funcionRandom()
 funcion()
