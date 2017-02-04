@@ -1,3 +1,9 @@
+# Personalizados
+.project
+.classpath
+.DS_Store
+.pydevproject
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
